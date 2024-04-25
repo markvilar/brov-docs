@@ -26,3 +26,7 @@
 ## miscellaneous
 
 * [Page 1](miscellaneous/page-1.md)
+
+## Diagrams
+
+* [System Diagrams](diagrams/system-diagrams.md)
