@@ -6,6 +6,4 @@ description: >-
 
 # System Diagrams
 
-
-
-{% file src="../.gitbook/assets/single_line_diagram_main_enclosure.pdf" %}
+<figure><img src="../.gitbook/assets/single_line_diagram_main_enclosure.png" alt=""><figcaption></figcaption></figure>
