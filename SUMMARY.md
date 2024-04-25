@@ -9,11 +9,14 @@
 ## manuals
 
 * [User Guidelines](manuals/user-guidelines.md)
+* [Periodic Maintenance](manuals/periodic-maintenance.md)
 
 ## software
 
 * [Ardusub](software/ardusub.md)
 * [MAVLink](software/mavlink.md)
+* [BlueOS](software/blueos.md)
+* [Software Resources](software/software-resources.md)
 
 ## resources
 
