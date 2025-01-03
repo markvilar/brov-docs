@@ -5,6 +5,8 @@
 ## hardware
 
 * [Components](hardware/components.md)
+* [SpeedyBee F405 BLS 50A](hardware/speedybee-f405-bls-50a.md)
+* [MatekSys Power Module PM20S-2](hardware/mateksys-power-module-pm20s-2.md)
 
 ## manuals
 
