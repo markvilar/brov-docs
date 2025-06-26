@@ -22,6 +22,7 @@
 * [SpeedyBee F405 BLS 50A](hardware/speedybee-f405-bls-50a.md)
 * [SpeedyBee BLS 60A 30x30 4-in-1 ESC](hardware/speedybee-bls-60a-30x30-4-in-1-esc.md)
 * [Mateksys Power Module PM12S-3](hardware/mateksys-power-module-pm12s-3.md)
+* [Sky Drones SmartAP PDB](hardware/sky-drones-smartap-pdb.md)
 
 ## manuals
 
