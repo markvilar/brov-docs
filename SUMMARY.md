@@ -30,4 +30,4 @@
 
 ## resources
 
-* [Community](resources/community.md)
+* [Guides and Forums](resources/community.md)
