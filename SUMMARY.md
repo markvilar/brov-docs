@@ -32,3 +32,7 @@
 ## resources
 
 * [Guides and Forums](resources/community.md)
+
+***
+
+* [Useful Forum Posts](useful-forum-posts.md)
