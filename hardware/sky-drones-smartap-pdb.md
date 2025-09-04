@@ -14,3 +14,4 @@ description: This is a page for technical information for the Sky Drones SmartAP
 
 * [https://ardupilot.org/copter/docs/common-smartap-pdb.html](https://ardupilot.org/copter/docs/common-smartap-pdb.html)
 * [https://sky-drones.com/power/smartap-pdb.html](https://sky-drones.com/power/smartap-pdb.html)
+* [https://docs.sky-drones.com/avionics/smartap-pdb/installation](https://docs.sky-drones.com/avionics/smartap-pdb/installation)
