@@ -1,16 +1,17 @@
 # Table of contents
 
 * [Overview](README.md)
+* [Getting Started](getting-started.md)
 
 ## System
 
 * [System Overview](system/system-diagrams.md)
 
-## software
+## Documentation
 
-* [BlueOS](software/blueos.md)
-* [Ardusub](software/ardusub.md)
-* [MAVLink](software/mavlink.md)
+* [BlueOS](documentation/blueos.md)
+* [Ardusub](documentation/ardusub.md)
+* [MAVLink](documentation/mavlink.md)
 
 ## hardware
 
