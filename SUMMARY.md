@@ -9,9 +9,9 @@
 
 ## Documentation
 
-* [BlueOS](documentation/blueos.md)
-* [Ardusub](documentation/ardusub.md)
-* [MAVLink](documentation/mavlink.md)
+* [BlueOS](software/blueos.md)
+* [Ardusub](software/ardusub.md)
+* [MAVLink](software/mavlink.md)
 
 ## hardware
 
