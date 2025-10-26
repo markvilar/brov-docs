@@ -25,6 +25,13 @@
 * [Mateksys Power Module PM12S-3](hardware/mateksys-power-module-pm12s-3.md)
 * [Sky Drones SmartAP PDB](hardware/sky-drones-smartap-pdb.md)
 
+## Wiring Diagrams
+
+* [Tether Pinout Diagrams](wiring-diagrams/tether-pinout-diagrams.md)
+* [Thruster Pinout Diagrams](wiring-diagrams/thruster-pinout-diagrams.md)
+* [Sensor Pinout Diagrams](wiring-diagrams/sensor-pinout-diagrams.md)
+* [Light Pinout Diagrams](wiring-diagrams/light-pinout-diagrams.md)
+
 ## manuals
 
 * [User Guidelines](manuals/user-guidelines.md)
